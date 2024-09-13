@@ -8,7 +8,7 @@ In this work, we introduce a dataset called DrivingContexts for the detection of
 
 This work is being presented at the [27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024)](https://ieee-itsc.org/2024/) for the main conference. 
 
-It is also accepted for invited talks at the [Vision and Language Oriented Representation (VALOR)](https://sites.google.com/view/valor-workshop/) workshop and the Large Language and [Vision Models for Autonomous Driving (LLVM-AD)](https://llvm-ad.github.io/)  workshop at ITSC 2024.
+It is also accepted for invited talks at the [Vision and Language Oriented Representation (VALOR)](https://sites.google.com/view/valor-workshop/) workshop and the [Large Language and Vision Models for Autonomous Driving (LLVM-AD)](https://llvm-ad.github.io/)  workshop at ITSC 2024.
 
 ### Environment setup
 ```
