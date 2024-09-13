@@ -2,7 +2,7 @@
 
 This Git Repository contains code for the ContextVLM paper and the associated DrivingContexts dataset. 
 
-In this work, we introduce a dataset called DrivingContexts for the detection of relevant driving contexts for autonomous driving. Additionally, we have methods for 
+In this work, we introduce a dataset called DrivingContexts for the detection of relevant driving contexts for autonomous driving. Additionally, we propose the use of vision language models such as LLaVa and ViLT with zero-shot and few-shot approaches, to solve the problem of detecting such contexts. With our approach, we reduce the need for fully supervised training on large annotated datasets to detect these contexts and also the need for hand-crafted approaches to understand specific contexts of importance.
 
 ### Venue
 
